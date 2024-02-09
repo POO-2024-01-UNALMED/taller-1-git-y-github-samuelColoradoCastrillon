@@ -1,0 +1,1 @@
+Crear una carpeta vacía no permite hacer un commit, y por lo tanto pese a hacer un push la carpeta no se verá reflejada en el repositorio.

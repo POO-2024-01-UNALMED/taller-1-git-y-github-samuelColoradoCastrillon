@@ -1,3 +1,4 @@
 Samuel Colorado
 17
 Espero obtener los conocimientos básicos para elaborar proyectos bajo el paradigma orientado a objetos
+Como lo dije en el .txt anterior, como la carpeta "archivos" se encontraba vacía, no era posible crear un commit ni hacer un push con ella, sin embargo al agregarle un archivo, sí es posible
